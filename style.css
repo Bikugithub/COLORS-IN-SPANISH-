@@ -1,0 +1,26 @@
+#red{color: red; background-color: lightcyan;}
+#blue{color: blue; background-color: lightcyan;}
+#orange{color: orange; background-color: lightcyan;}
+#green{color: green; background-color: lightcyan;}
+#yellow {color: rgb(216, 216, 25); background-color: lightcyan;}
+
+.color-title {
+    font-weight: normal;
+}
+
+img{
+    height: 200px ; width: 200px; 
+}
+
+*
+{background-color: bisque;
+text-align: center;
+}
+
+h1 {
+    background-color: lightgreen;
+}
+
+h2 {
+    background-color: burlywood;
+}
